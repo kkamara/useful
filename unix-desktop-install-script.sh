@@ -31,9 +31,9 @@ for packageTool in "${packageTools[@]}"
 installPath="$HOME/Downloads"
 echo "Downloading tools to $installPath..."
 echo "Downloading xampp..."
-nohup wget https://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/7.4.20/xampp-linux-x64-7.4.20-0-installer.run?ts=gAAAAABgxTJ9V7E870D28F96cXrVcfydhjfG8QZZaopd4CzJL8eCx_m12mmADkBbg5f0xd51lt6FTZdzbc8v0iOCW_U8h91uwA%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fxampp%2Ffiles%2Flatest%2Fdownload $installPath &
+wget https://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/7.4.20/xampp-linux-x64-7.4.20-0-installer.run?ts=gAAAAABgxTJ9V7E870D28F96cXrVcfydhjfG8QZZaopd4CzJL8eCx_m12mmADkBbg5f0xd51lt6FTZdzbc8v0iOCW_U8h91uwA%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fxampp%2Ffiles%2Flatest%2Fdownload $installPath
 echo "Downloading vscode..."
-nohup wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64 $installPath &
+wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64 $installPath
 echo "Downloading dbeaver..."
 wget https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb $installPath
 echo "Downloading zoom..."
