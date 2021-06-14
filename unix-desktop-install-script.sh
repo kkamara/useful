@@ -102,6 +102,7 @@ echo "To manually download..."
 manualInstallTools=(
     postman
     chrome
+    composer
 )
 for manualInstallTool in "${manualInstallTools[@]}"
     do
