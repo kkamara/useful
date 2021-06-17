@@ -165,14 +165,11 @@ for dpkgPackage in "${dpkgPackages[@]}"
 		printf "\n\t\t$dpkgPackage \\"
 	done
 
-printf "\n\t && sudo apt install -fy \\"
-
-printf "\n\t "
+printf "\n\t&& sudo apt install -fy \\"
 
 for toProcess in "${forParallelProcessing[@]}"
 	do :
-		printf "&& $toProcess"
+		printf "\n\t&& $toProcess"
 	done
 
 printf "\n${NC}"
-
