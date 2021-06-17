@@ -14,5 +14,5 @@
             "Pds\\Skeleton\\": "tests/"
         }
     },
-    "bin": ["bin/unix-desktop-install"]
+    "bin": ["bin/unix-desktop-setup"]
 }

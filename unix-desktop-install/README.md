@@ -1,4 +1,4 @@
-# unix-desktop-install
+# unix-desktop-setup
 
 Installs my personal unix desktop environment.
 
@@ -16,7 +16,7 @@ composer i
 
 Run the following to display available commands.
 ```
-bin/unix-desktop-install
+bin/unix-desktop-setup
 ```
 
 ## Community

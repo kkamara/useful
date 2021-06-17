@@ -34,7 +34,7 @@ class Console
     {
         echo 'Available commands:' . PHP_EOL;
         foreach ($this->commandsWhitelist as $key => $value) {
-            echo 'unix-desktop-install ' . $key . PHP_EOL;
+            echo 'unix-desktop-setup ' . $key . PHP_EOL;
         }
     }
 }
