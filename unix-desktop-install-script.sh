@@ -95,10 +95,11 @@ echo -e "${GREEN}Installing nvm...${NC}"
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 echo -e "${GREEN}Downloading golang...${NC}"
-megaPath="$installPath/go1.16.5.linux-amd64.tar.gz"
-wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz -P "$installPath"
+wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz \
+    -P "$installPath"
 echo -e "${GREEN}Installing golang...${NC}"
-tar xvzf go1.16.5.linux-amd64.tar.gz -C "$installPath"
+tar xvzf go1.16.5.linux-amd64.tar.gz \
+    -C "$installPath"
 rm "$installPath/go1.16.5.linux-amd64.tar.gz"
 mv "$installPath/go /usr"
 
