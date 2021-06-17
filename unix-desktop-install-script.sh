@@ -82,8 +82,6 @@ echo -e "${GREEN}Downloading zoom...${NC}"
 zoomPath="$installPath/zoom_amd64.deb"
 dpkgPackages+=("$zoomPath")
 wget https://zoom.us/client/latest/zoom_amd64.deb -P "$installPath"
-echo -e "${GREEN}Installing zoom dependencies...${NC}"
-sudo apt-get install -y libxcb-xtest0
 
 echo -e "${GREEN}Downloading mega...${NC}"
 megaPath="$installPath/megasync_4.4.0-1.1_amd64.deb"
