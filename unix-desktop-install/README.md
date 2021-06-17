@@ -2,6 +2,16 @@
 
 Installs my personal unix desktop environment.
 
+## Requirements
+
+Your operating system should already have [php](https://www.php.net/) and [composer](https://getcomposer.org/) installed.
+
+## Installation
+
+```
+composer i
+```
+
 ## Usage
 
 Run the following to display available commands.
