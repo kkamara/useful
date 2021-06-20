@@ -1,6 +1,6 @@
-# debian-desktop-setup
+# debian-desktop-setup-v2
 
-Installs my personal debian desktop environment.
+Installs debian desktop tools & packages custom for https://kelvinkamara.com.
 
 ## Requirements
 
