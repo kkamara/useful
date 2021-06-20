@@ -2,8 +2,8 @@ package main
 
 import (
 	_ "github.com/fatih/color"
-	"github.com/kkamara/useful/debian-desktop-setup/config"
-	"github.com/kkamara/useful/debian-desktop-setup/models"
+	"github.com/kkamara/useful/debian-desktop-setup-v2/config"
+	"github.com/kkamara/useful/debian-desktop-setup-v2/models"
 	"github.com/urfave/cli/v2"
 	"log"
 	"os"

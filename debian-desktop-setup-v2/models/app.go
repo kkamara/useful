@@ -2,7 +2,7 @@ package models
 
 import (
 	"fmt"
-	"github.com/kkamara/useful/debian-desktop-setup/config"
+	"github.com/kkamara/useful/debian-desktop-setup-v2/config"
 	"github.com/urfave/cli/v2"
 )
 

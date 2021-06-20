@@ -1,4 +1,4 @@
-module github.com/kkamara/useful/debian-desktop-setup
+module github.com/kkamara/useful/debian-desktop-setup-v2
 
 go 1.16
 
