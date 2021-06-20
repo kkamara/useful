@@ -1,6 +1,6 @@
-# unix-desktop-setup
+# debian-desktop-setup
 
-Installs my personal unix desktop environment.
+Installs my personal debian desktop environment.
 
 ## Requirements
 
