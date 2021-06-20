@@ -103,7 +103,7 @@ echo -e "${GREEN}Installing golang...${NC}"
 tar xvzf go1.16.5.linux-amd64.tar.gz \
     -C "$installPath"
 rm "$installPath/go1.16.5.linux-amd64.tar.gz"
-mv "$installPath/go /usr"
+sudo mv "$installPath/go /usr"
 
 if [[ "$installingDocker" == 1 ]]; then
     echo -e "${GREEN}Installing docker...${NC}"
