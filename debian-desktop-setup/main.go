@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/fatih/color"
 )
 
 func main() {
-	fmt.Println("Unix Desktop Setup")
+	color.Yellow("Unix Desktop Setup v2")
 }
