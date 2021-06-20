@@ -4,24 +4,14 @@ Installs my personal unix desktop environment.
 
 ## Requirements
 
-Your operating system should already have [php](https://www.php.net/) and [composer](https://getcomposer.org/) installed.
-
-## Installation
-
-```
-composer i
-```
+- [Go](https://golang.org/)
 
 ## Usage
 
 Run the following to display available commands.
+```go
+go run main.go
 ```
-bin/unix-desktop-setup
-```
-
-## Community
-
-This package is made possible with [pds skeleton](https://github.com/php-pds/skeleton).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -29,4 +19,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[CC](https://creativecommons.org/licenses/)
+[BSD](https://github.com/kkamara/useful/tree/main/unix-desktop-setup/LICENSE.md)
