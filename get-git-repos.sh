@@ -12,10 +12,11 @@ repos=(
     artist
     js-playground
     php-playground
-    tele-browser
+    telebrowser
     ram
     laravel-makefile
     useful
+    debian-desktop-setup-v2
 )
 
 for i in "${repos[@]}"
