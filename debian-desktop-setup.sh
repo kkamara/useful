@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#author https://github.com/kkamara
+#version 1
+#version 2 can be found at https://github.com/kkamara/debian-desktop-setup-v2
+
 YELLOW="\033[1;33m"
 GREEN="\033[0;32m"
 CYAN="\033[0;36m" 
