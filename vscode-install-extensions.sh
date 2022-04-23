@@ -1,3 +1,4 @@
+repos=(
 batisteo.vscode-django
 bibhasdn.django-html
 bibhasdn.django-snippets
@@ -23,3 +24,9 @@ PKief.material-icon-theme
 shamanu4.django-intellisense
 Tyriar.lorem-ipsum
 victorzevallos.vscode-theme-django
+)
+
+for repo in "${repos[@]}"
+do
+	code --install-extension "$repo"
+done
