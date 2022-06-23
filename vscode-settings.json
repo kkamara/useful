@@ -7,5 +7,6 @@
     "telemetry.telemetryLevel": "off",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Default Light+",
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "intelephense.telemetry.enabled": false
 }
