@@ -13,5 +13,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Default Light+",
     "window.zoomLevel": 1,
-    "intelephense.telemetry.enabled": false
+    "intelephense.telemetry.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.external.windowsExec": "C:\\\\Program Files\\\\Git\\\\git-bash.exe"
 }
