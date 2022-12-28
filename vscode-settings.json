@@ -1,4 +1,9 @@
 {
+    "emmet.syntaxProfiles": {
+        "html": {
+            "attr_quotes": "single"
+        }
+    },
     "emmet.includeLanguages": {
         "javascript": "javascriptreact",
         "twig": "html"
