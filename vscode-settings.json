@@ -1,7 +1,8 @@
 {
     "emmet.syntaxProfiles": {
         "html": {
-            "attr_quotes": "single"
+            "attr_quotes": "single",
+            "self_closing_tag" : true
         }
     },
     "emmet.includeLanguages": {
