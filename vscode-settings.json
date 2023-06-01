@@ -14,5 +14,7 @@
     "workbench.colorTheme": "Default Light+",
     "intelephense.telemetry.enabled": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.external.windowsExec": "C:\\\\Program Files\\\\Git\\\\git-bash.exe"
+    "terminal.external.windowsExec": "C:\\\\Program Files\\\\Git\\\\git-bash.exe",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
