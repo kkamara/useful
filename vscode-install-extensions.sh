@@ -1,18 +1,15 @@
 repos=(
-bmewburn.vscode-intelephense-client
-CoenraadS.bracket-pair-colorizer-2
 deerawan.vscode-faker
+dzhavat.bracket-pair-toggler
 eamodio.gitlens
 mblode.twig-language-2
-MehediDracula.php-namespace-resolver
-neilbrayfield.php-docblocker
-onecentlin.laravel-blade
-Tyriar.lorem-ipsum
-DEVSENSE.phptools-vscode
-DEVSENSE.profiler-php-vscode
 Meezilla.json
+MehediDracula.php-namespace-resolver
+onecentlin.laravel-blade
 rangav.vscode-thunder-client
 rodrigovallades.es7-react-js-snippets
+rust-lang.rust-analyzer
+Tyriar.lorem-ipsum
 )
 
 for repo in "${repos[@]}"
