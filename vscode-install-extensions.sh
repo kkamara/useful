@@ -5,7 +5,8 @@ dzhavat.bracket-pair-toggler
 eamodio.gitlens
 Meezilla.json
 MehediDracula.php-namespace-resolver
-ms-vscode.cpptools
+ms-python.python
+ms-python.vscode-pylance
 onecentlin.laravel-blade
 rangav.vscode-thunder-client
 rodrigovallades.es7-react-js-snippets
