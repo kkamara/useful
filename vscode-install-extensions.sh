@@ -1,6 +1,10 @@
 repos=(
 amandeepmittal.pug
+BattleBas.kivy-vscode
 deerawan.vscode-faker
+DEVSENSE.composer-php-vscode
+DEVSENSE.phptools-vscode
+DEVSENSE.profiler-php-vscode
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
 Meezilla.json
