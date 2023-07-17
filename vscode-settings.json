@@ -1,21 +1,9 @@
 {
     "workbench.colorTheme": "Default Light Modern",
-    "emmet.syntaxProfiles": {
-        "html": {
-            "attr_quotes": "single",
-            "self_closing_tag" : true
-        }
-    },
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact",
-        "twig": "html"
-    },
     "editor.tabSize": 2,
     "telemetry.telemetryLevel": "off",
-    "intelephense.telemetry.enabled": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.external.windowsExec": "C:\\\\Program Files\\\\Git\\\\git-bash.exe",
     "security.workspace.trust.untrustedFiles": "newWindow",
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "composer.workingPath": "/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/contact-plugin/composer.json"
+    "gitlens.telemetry.enabled": false
 }
