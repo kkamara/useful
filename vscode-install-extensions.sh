@@ -11,6 +11,7 @@ Meezilla.json
 MehediDracula.php-namespace-resolver
 ms-python.python
 ms-python.vscode-pylance
+ms-vscode.js-debug-nightly
 onecentlin.laravel-blade
 rangav.vscode-thunder-client
 rodrigovallades.es7-react-js-snippets
