@@ -6,5 +6,5 @@
     "security.workspace.trust.untrustedFiles": "newWindow",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "gitlens.telemetry.enabled": false,
-    "window.zoomLevel": 3
+    "window.zoomLevel": 2
 }
