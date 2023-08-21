@@ -1,5 +1,4 @@
 repos=(
-bmewburn.vscode-intelephense-client
 deerawan.vscode-faker
 DEVSENSE.composer-php-vscode
 DEVSENSE.phptools-vscode
