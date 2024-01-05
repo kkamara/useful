@@ -3,6 +3,7 @@ deerawan.vscode-faker
 DEVSENSE.composer-php-vscode
 DEVSENSE.phptools-vscode
 DEVSENSE.profiler-php-vscode
+dsznajder.es7-react-js-snippets
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
 Meezilla.json
