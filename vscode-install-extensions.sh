@@ -1,20 +1,28 @@
 repos=(
 deerawan.vscode-faker
-DEVSENSE.composer-php-vscode
-DEVSENSE.phptools-vscode
-DEVSENSE.profiler-php-vscode
+devsense.composer-php-vscode
+devsense.intelli-php-vscode
+devsense.phptools-vscode
+devsense.profiler-php-vscode
+donjayamanne.jquerysnippets
 dsznajder.es7-react-js-snippets
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
-Meezilla.json
-MehediDracula.php-namespace-resolver
+hridoy.wordpress
+johnbillion.vscode-wordpress-hooks
+laurencebahiirwa.classicpress-snippets
+laurencebahiirwa.elementor-snippets
+meezilla.json
+mehedidracula.php-namespace-resolver
+ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
 onecentlin.laravel-blade
 rangav.vscode-thunder-client
 rodrigovallades.es7-react-js-snippets
-Tyriar.lorem-ipsum
+tyriar.lorem-ipsum
 whatwedo.twig
+wordpresstoolbox.wordpress-toolbox
 )
 
 for repo in "${repos[@]}"
