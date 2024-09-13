@@ -2,7 +2,6 @@
     "workbench.colorTheme": "Solarized Dark",
     "editor.tabSize": 4,
     "telemetry.telemetryLevel": "off",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "security.workspace.trust.untrustedFiles": "newWindow",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "gitlens.telemetry.enabled": false,
