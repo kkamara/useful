@@ -12,7 +12,7 @@ hridoy.wordpress
 johnbillion.vscode-wordpress-hooks
 laurencebahiirwa.classicpress-snippets
 laurencebahiirwa.elementor-snippets
-meezilla.json
+eriklynd.json-tools
 mehedidracula.php-namespace-resolver
 ms-python.debugpy
 ms-python.python
