@@ -8,10 +8,6 @@ donjayamanne.jquerysnippets
 dsznajder.es7-react-js-snippets
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
-hridoy.wordpress
-johnbillion.vscode-wordpress-hooks
-laurencebahiirwa.classicpress-snippets
-laurencebahiirwa.elementor-snippets
 eriklynd.json-tools
 mehedidracula.php-namespace-resolver
 ms-python.debugpy
@@ -19,10 +15,18 @@ ms-python.python
 ms-python.vscode-pylance
 onecentlin.laravel-blade
 rangav.vscode-thunder-client
+redhat.java
 rodrigovallades.es7-react-js-snippets
 tyriar.lorem-ipsum
+visualstudioexptteam.intellicode-api-usage-examples
+visualstudioexptteam.vscodeintellicode
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
 whatwedo.twig
-wordpresstoolbox.wordpress-toolbox
 )
 
 for repo in "${repos[@]}"
