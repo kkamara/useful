@@ -15,7 +15,6 @@ ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
 onecentlin.laravel-blade
-rangav.vscode-thunder-client
 redhat.java
 rodrigovallades.es7-react-js-snippets
 tyriar.lorem-ipsum
