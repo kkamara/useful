@@ -10,6 +10,7 @@ dzhavat.bracket-pair-toggler
 eamodio.gitlens
 eriklynd.json-tools
 mehedidracula.php-namespace-resolver
+ms-azuretools.vscode-docker
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
