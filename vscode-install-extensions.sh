@@ -16,6 +16,7 @@ ms-python.python
 ms-python.vscode-pylance
 onecentlin.laravel-blade
 redhat.java
+redhat.vscode-yaml
 rodrigovallades.es7-react-js-snippets
 tyriar.lorem-ipsum
 visualstudioexptteam.intellicode-api-usage-examples
