@@ -1,4 +1,5 @@
 repos=(
+csstools.postcss
 deerawan.vscode-faker
 devsense.composer-php-vscode
 devsense.intelli-php-vscode
@@ -9,24 +10,16 @@ dsznajder.es7-react-js-snippets
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
 eriklynd.json-tools
+golang.go
 mehedidracula.php-namespace-resolver
 ms-azuretools.vscode-docker
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
 onecentlin.laravel-blade
-redhat.java
 redhat.vscode-yaml
 rodrigovallades.es7-react-js-snippets
 tyriar.lorem-ipsum
-visualstudioexptteam.intellicode-api-usage-examples
-visualstudioexptteam.vscodeintellicode
-vscjava.vscode-gradle
-vscjava.vscode-java-debug
-vscjava.vscode-java-dependency
-vscjava.vscode-java-pack
-vscjava.vscode-java-test
-vscjava.vscode-maven
 whatwedo.twig
 )
 
