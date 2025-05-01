@@ -1,6 +1,6 @@
 {
     "workbench.colorTheme": "Solarized Light",
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "telemetry.telemetryLevel": "off",
     "security.workspace.trust.untrustedFiles": "newWindow",
     "javascript.updateImportsOnFileMove.enabled": "always",
