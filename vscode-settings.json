@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Solarized Dark",
     "editor.tabSize": 2,
     "telemetry.telemetryLevel": "off",
     "security.workspace.trust.untrustedFiles": "newWindow",
