@@ -7,5 +7,5 @@
     "gitlens.telemetry.enabled": false,
     "window.zoomLevel": 0,
     "extensions.ignoreRecommendations": true,
-    "window.restoreFullscreen": true
+    "window.newWindowDimensions": "inherit"
 }
