@@ -1,15 +1,45 @@
 {
-    "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Default Light Modern",
+  "editor.tabSize": 2,
+  "telemetry.telemetryLevel": "off",
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.telemetry.enabled": false,
+  "window.zoomLevel": 1,
+  "extensions.ignoreRecommendations": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.renderWhitespace": "all",
+  "window.newWindowDimensions": "inherit",
+  "docker.extension.enableComposeLanguageServer": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
     "editor.tabSize": 2,
-    "telemetry.telemetryLevel": "off",
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "gitlens.telemetry.enabled": false,
-    "window.zoomLevel": 0,
-    "extensions.ignoreRecommendations": true,
-    "window.newWindowDimensions": "inherit",
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
     },
-    "workbench.iconTheme": "material-icon-theme"
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "editor.linkedEditing": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "files.autoSave": "afterDelay"
 }
