@@ -40,6 +40,5 @@
   "gitlens.ai.vscode.model": "copilot:gpt-4.1",
   "editor.linkedEditing": true,
   "diffEditor.hideUnchangedRegions.enabled": true,
-  "github.copilot.nextEditSuggestions.enabled": true,
-  "files.autoSave": "afterDelay"
+  "github.copilot.nextEditSuggestions.enabled": true
 }
