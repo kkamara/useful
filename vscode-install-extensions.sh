@@ -6,6 +6,7 @@ dsznajder.es7-react-js-snippets
 dzhavat.bracket-pair-toggler
 eamodio.gitlens
 eriklynd.json-tools
+fwcd.kotlin
 github.copilot
 github.copilot-chat
 mathiasfrohlich.kotlin
