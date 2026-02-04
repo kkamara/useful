@@ -1,6 +1,5 @@
 {
-  "workbench.colorTheme": "Default Light Modern",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.untrustedFiles": "newWindow",
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -39,6 +38,12 @@
   "gitlens.ai.model": "vscode",
   "gitlens.ai.vscode.model": "copilot:gpt-4.1",
   "editor.linkedEditing": true,
-  "diffEditor.hideUnchangedRegions.enabled": true,
-  "github.copilot.nextEditSuggestions.enabled": true
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "terminal.integrated.initialHint": false,
+  "chat.tools.urls.autoApprove": {
+    "https://raw.githubusercontent.com": {
+      "approveRequest": false,
+      "approveResponse": true
+    }
+  }
 }
