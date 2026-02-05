@@ -6,7 +6,6 @@ dsznajder.es7-react-js-snippets
 eamodio.gitlens
 eriklynd.json-tools
 fwcd.kotlin
-github.copilot
 github.copilot-chat
 mathiasfrohlich.kotlin
 ms-azuretools.vscode-containers
@@ -15,6 +14,8 @@ perkovec.emoji
 pkief.material-icon-theme
 redhat.java
 redhat.vscode-yaml
+rust-lang.rust-analyzer
+tamasfe.even-better-toml
 tyriar.lorem-ipsum
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
