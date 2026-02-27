@@ -10,6 +10,11 @@ github.copilot-chat
 mathiasfrohlich.kotlin
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
+ms-vscode.cmake-tools
+ms-vscode.cpp-devtools
+ms-vscode.cpptools
+ms-vscode.cpptools-extension-pack
+ms-vscode.cpptools-themes
 perkovec.emoji
 pkief.material-icon-theme
 redhat.java
