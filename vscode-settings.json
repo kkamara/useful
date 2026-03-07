@@ -2,7 +2,7 @@
   "editor.tabSize": 2,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.untrustedFiles": "newWindow",
-  "javascript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.updateImportsOnFileMove.enabled": "always",
   "gitlens.telemetry.enabled": false,
   "window.zoomLevel": 1,
   "extensions.ignoreRecommendations": true,
