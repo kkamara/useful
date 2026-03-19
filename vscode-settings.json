@@ -4,7 +4,6 @@
   "security.workspace.trust.untrustedFiles": "newWindow",
   "js/ts.updateImportsOnFileMove.enabled": "always",
   "gitlens.telemetry.enabled": false,
-  "window.zoomLevel": 1,
   "extensions.ignoreRecommendations": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.renderWhitespace": "all",
@@ -48,8 +47,7 @@
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
-      "source": "PowerShell",
-      "icon": "terminal-powershell"
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
     },
     "Command Prompt": {
       "path": [
@@ -67,5 +65,9 @@
       ]
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.editor.empty.hint": "hidden",
+  "window.zoomLevel": 1,
+  "files.autoSave": "afterDelay",
+  "chat.viewSessions.orientation": "stacked"
 }
