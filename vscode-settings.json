@@ -1,5 +1,5 @@
 {
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.untrustedFiles": "newWindow",
   "js/ts.updateImportsOnFileMove.enabled": "always",
