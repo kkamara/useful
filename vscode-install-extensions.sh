@@ -1,6 +1,10 @@
 repos=(
 csstools.postcss
 deerawan.vscode-faker
+devsense.composer-php-vscode
+devsense.intelli-php-vscode
+devsense.phptools-vscode
+devsense.profiler-php-vscode
 docker.docker
 dsznajder.es7-react-js-snippets
 eamodio.gitlens
