@@ -10,7 +10,9 @@
   "window.newWindowDimensions": "inherit",
   "docker.extension.enableComposeLanguageServer": false,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "twig": "html",
+    "html.twig": "html"
   },
   "[dockercompose]": {
     "editor.insertSpaces": true,
@@ -69,5 +71,14 @@
   "workbench.editor.empty.hint": "hidden",
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
-  "chat.viewSessions.orientation": "stacked"
+  "chat.viewSessions.orientation": "stacked",
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.twig": "twig",
+    "*.html.twig": "html"
+  },
+  "editor.tabCompletion": "onlySnippets",
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "top"
 }
