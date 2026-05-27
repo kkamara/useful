@@ -80,5 +80,7 @@
   "editor.tabCompletion": "onlySnippets",
   "emmet.showExpandedAbbreviation": "always",
   "emmet.showSuggestionsAsSnippets": true,
-  "editor.snippetSuggestions": "top"
+  "editor.snippetSuggestions": "top",
+  "workbench.colorTheme": "Dark 2026",
+  "telemetry.feedback.enabled": false
 }
