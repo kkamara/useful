@@ -10,6 +10,8 @@ ms-azuretools.vscode-docker
 perkovec.emoji
 pkief.material-icon-theme
 redhat.vscode-yaml
+rust-lang.rust-analyzer
+tamasfe.even-better-toml
 tyriar.lorem-ipsum
 xabikos.javascriptsnippets
 )
