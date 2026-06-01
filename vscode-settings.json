@@ -82,5 +82,7 @@
   "emmet.showSuggestionsAsSnippets": true,
   "editor.snippetSuggestions": "top",
   "workbench.colorTheme": "Dark 2026",
-  "telemetry.feedback.enabled": false
+  "telemetry.feedback.enabled": false,
+  "editor.defaultFormatter": "rust-lang.rust-analyzer",
+  "editor.formatOnSave": true
 }
