@@ -1,4 +1,5 @@
 {
+  "diff_view_style": "split",
   "cli_default_open_behavior": "new_window",
   "telemetry": {
     "diagnostics": false,
@@ -26,6 +27,14 @@
   "tab_size": 4,
   "agent_servers": {
     "github-copilot-cli": {
+      "favorite_config_option_values": {
+        "model": [
+          "auto"
+        ]
+      },
+      "default_config_options": {
+        "model": "auto"
+      },
       "type": "registry"
     }
   },
