@@ -42,10 +42,13 @@
   "github.copilot.nextEditSuggestions.enabled": true,
   "terminal.integrated.initialHint": false,
   "chat.tools.urls.autoApprove": {
+    "https://code.visualstudio.com": true,
+    "https://github.com/microsoft/vscode/wiki/*": true,
     "https://raw.githubusercontent.com": {
       "approveRequest": false,
       "approveResponse": true
-    }
+    },
+    "https://www.kelvinkamara.com": true
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -71,7 +74,6 @@
   "workbench.editor.empty.hint": "hidden",
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
-  "chat.viewSessions.orientation": "stacked",
   "emmet.triggerExpansionOnTab": true,
   "files.associations": {
     "*.twig": "twig",
@@ -81,8 +83,9 @@
   "emmet.showExpandedAbbreviation": "always",
   "emmet.showSuggestionsAsSnippets": true,
   "editor.snippetSuggestions": "top",
-  "workbench.colorTheme": "Dark 2026",
   "telemetry.feedback.enabled": false,
   "editor.defaultFormatter": "rust-lang.rust-analyzer",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "chat.viewSessions.orientation": "stacked",
+  "workbench.colorTheme": "One Dark Pro Flat"
 }

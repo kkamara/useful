@@ -14,6 +14,7 @@ rust-lang.rust-analyzer
 tamasfe.even-better-toml
 tyriar.lorem-ipsum
 xabikos.javascriptsnippets
+zhuangtongfa.material-theme
 )
 
 for repo in "${repos[@]}"
