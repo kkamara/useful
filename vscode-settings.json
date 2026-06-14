@@ -84,8 +84,6 @@
   "emmet.showSuggestionsAsSnippets": true,
   "editor.snippetSuggestions": "top",
   "telemetry.feedback.enabled": false,
-  "editor.defaultFormatter": "rust-lang.rust-analyzer",
-  "editor.formatOnSave": true,
   "chat.viewSessions.orientation": "stacked",
   "workbench.colorTheme": "One Dark Pro Flat"
 }
