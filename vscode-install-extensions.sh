@@ -1,5 +1,6 @@
 repos=(
 batisteo.vscode-django
+charliermarsh.ruff
 csstools.postcss
 deerawan.vscode-faker
 docker.docker
