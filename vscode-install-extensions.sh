@@ -23,8 +23,15 @@ ms-python.vscode-python-envs
 njpwerner.autodocstring
 perkovec.emoji
 pkief.material-icon-theme
+redhat.java
 redhat.vscode-yaml
 tyriar.lorem-ipsum
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
 wholroyd.jinja
 xabikos.javascriptsnippets
 zhuangtongfa.material-theme
