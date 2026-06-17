@@ -30,6 +30,7 @@ pkief.material-icon-theme
 redhat.java
 redhat.vscode-yaml
 sethjones.kotlin-on-vscode
+shellomo.django-template-intelligence
 tyriar.lorem-ipsum
 vmware.vscode-boot-dev-pack
 vmware.vscode-spring-boot
