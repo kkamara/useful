@@ -88,6 +88,5 @@
   "workbench.colorTheme": "One Dark Pro Flat",
   "python.analysis.typeCheckingMode": "standard",
   "editor.defaultFormatter": "charliermarsh.ruff",
-  "editor.formatOnSave": true,
-  "python.terminal.useEnvFile": true
+  "editor.formatOnSave": true
 }
