@@ -86,7 +86,7 @@
   "telemetry.feedback.enabled": false,
   "chat.viewSessions.orientation": "stacked",
   "workbench.colorTheme": "One Dark Pro Flat",
-  "python.analysis.typeCheckingMode": "standard",
   "editor.defaultFormatter": "charliermarsh.ruff",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "python.languageServer": "Jedi"
 }
