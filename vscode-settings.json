@@ -48,7 +48,13 @@
       "approveRequest": false,
       "approveResponse": true
     },
-    "https://www.kelvinkamara.com": true
+    "https://www.kelvinkamara.com": true,
+    "https://github.com": {
+      "approveRequest": false,
+      "approveResponse": true
+    },
+    "https://django-upgrade.readthedocs.io": true,
+    "https://developers.cloudflare.com": true
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -85,7 +91,7 @@
   "editor.snippetSuggestions": "top",
   "telemetry.feedback.enabled": false,
   "chat.viewSessions.orientation": "stacked",
-  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.colorTheme": "Dark+",
   "editor.defaultFormatter": "charliermarsh.ruff",
   "editor.formatOnSave": true,
   "python.languageServer": "Jedi"
