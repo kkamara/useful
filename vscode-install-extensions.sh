@@ -21,7 +21,6 @@ ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-python.debugpy
 ms-python.python
-ms-python.vscode-pylance
 ms-python.vscode-python-envs
 naco-siren.gradle-language
 njpwerner.autodocstring
@@ -29,6 +28,7 @@ perkovec.emoji
 pkief.material-icon-theme
 redhat.java
 redhat.vscode-yaml
+ryanolsonx.solarized
 sethjones.kotlin-on-vscode
 shellomo.django-template-intelligence
 tyriar.lorem-ipsum

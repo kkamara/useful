@@ -91,7 +91,7 @@
   "editor.snippetSuggestions": "top",
   "telemetry.feedback.enabled": false,
   "chat.viewSessions.orientation": "stacked",
-  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorTheme": "Solarized Light+",
   "editor.defaultFormatter": "charliermarsh.ruff",
   "editor.formatOnSave": true,
   "python.languageServer": "Jedi"
