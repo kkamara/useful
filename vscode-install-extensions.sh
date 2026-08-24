@@ -31,6 +31,7 @@ redhat.vscode-yaml
 ryanolsonx.solarized
 sethjones.kotlin-on-vscode
 shellomo.django-template-intelligence
+tomoki1207.pdf
 tyriar.lorem-ipsum
 vmware.vscode-boot-dev-pack
 vmware.vscode-spring-boot
