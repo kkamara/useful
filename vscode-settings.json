@@ -36,8 +36,6 @@
     "markdown": false,
     "scminput": false
   },
-  "gitlens.ai.model": "vscode",
-  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
   "editor.linkedEditing": true,
   "github.copilot.nextEditSuggestions.enabled": true,
   "terminal.integrated.initialHint": false,
@@ -54,7 +52,8 @@
       "approveResponse": true
     },
     "https://django-upgrade.readthedocs.io": true,
-    "https://developers.cloudflare.com": true
+    "https://developers.cloudflare.com": true,
+    "https://docs.expo.dev": true
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -94,5 +93,6 @@
   "workbench.colorTheme": "Solarized Light+",
   "editor.defaultFormatter": "charliermarsh.ruff",
   "editor.formatOnSave": true,
-  "python.languageServer": "Jedi"
+  "python.languageServer": "Jedi",
+  "workbench.startupEditor": "none"
 }
