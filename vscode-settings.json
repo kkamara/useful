@@ -8,11 +8,8 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.renderWhitespace": "all",
   "window.newWindowDimensions": "inherit",
-  "docker.extension.enableComposeLanguageServer": false,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "twig": "html",
-    "html.twig": "html"
+    "javascript": "javascriptreact"
   },
   "[dockercompose]": {
     "editor.insertSpaces": true,
@@ -91,8 +88,10 @@
   "telemetry.feedback.enabled": false,
   "chat.viewSessions.orientation": "stacked",
   "workbench.colorTheme": "Solarized Light+",
-  "editor.defaultFormatter": "charliermarsh.ruff",
   "editor.formatOnSave": true,
-  "python.languageServer": "Jedi",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "chat.tools.terminal.autoApprove": {
+    "Test-Path": true
+  },
+  "chat.permissions.default": "autoApprove"
 }
