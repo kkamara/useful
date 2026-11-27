@@ -87,7 +87,7 @@
   "editor.snippetSuggestions": "top",
   "telemetry.feedback.enabled": false,
   "chat.viewSessions.orientation": "stacked",
-  "workbench.colorTheme": "Solarized Dark+",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
   "editor.formatOnSave": true,
   "workbench.startupEditor": "none",
   "chat.tools.terminal.autoApprove": {
